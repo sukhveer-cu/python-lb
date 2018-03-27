@@ -1,3 +1,5 @@
 #!/usr/bin/python
-while(1):
-  print "hello";
+i=1;
+while(i<=10):
+  print ("the value of i is",i)
+  i++
