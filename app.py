@@ -1,6 +1,6 @@
 #!/usr/bin/python
-a=10
-b=20
+a=20
+b=10
 if a>b:
   print "a is greater"
 else:
